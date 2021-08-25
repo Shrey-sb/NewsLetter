@@ -36,6 +36,7 @@ const url = "https://us1.api.mailchimp.com/3.0/lists/1aec2b6c8b";
 
 
 
+
 const options = {
   method : "POST",
   auth : process.env.apikey
